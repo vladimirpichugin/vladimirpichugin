@@ -16,7 +16,9 @@
 - 🎲 Other repositories.
 
 **My Resume:** <br>
-[<img src='https://vladimirpichugin.github.io/icons/habr.png' alt='habr career' height='30'>](https://career.habr.com/pichuginvv) [<img src='https://vladimirpichugin.github.io/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/vladimirpichugin/)
+[<img src='https://vladimirpichugin.github.io/icons/hh.png' alt='hh.ru' height='30'>](https://hh.ru/resume/726e21e5ff099421660039ed1f594e4a504754) [<img src='https://vladimirpichugin.github.io/icons/habr.png' alt='habr career' height='30'>](https://career.habr.com/pichuginvv) [<img src='https://vladimirpichugin.github.io/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/vladimirpichugin/)
+
+
 
 **My Socials:** <br>
 [<img src='https://vladimirpichugin.github.io/icons/telegram.svg' alt='telegram' height='30'>](http://t.me/vladimirpichugin) [<img src='https://vladimirpichugin.github.io/icons/matrix.svg' alt='matrix' height='30'>](https://matrix.to/#/@vladimirpichugin:matrix.org) [<img src='https://vladimirpichugin.github.io/icons/devto.svg' alt='devto' height='30'>](https://dev.to/pichugin)
